@@ -16,12 +16,12 @@ In addition to addressing these common pitfalls, we will also spend time coverin
 
 # TOPICS
 
-Schema, Schemata, Database
-User Grants
-SHOW commants
-Vacuum
-Quotes
-character sets and collations
-date handling
-replication
-Bug Tracking
+- Schema, Schemata, Database
+- User Grants
+- SHOW commants
+- Vacuum
+- Quotes
+- character sets and collations
+- date handling
+- replication
+- Bug Tracking
